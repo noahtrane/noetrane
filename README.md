@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently working on a large project<br>👨🏼‍🎓 Learning Matlab and Python<br>👨🏼‍💻 Studying Engineering at the university of Oxford<br>🧗 On my rock climbing journey
+🚀 Currently working on a large project<br>👨🏼‍🎓 Learning Matlab and Python<br>👨🏼‍💻 Studying Engineering at the University of Oxford<br>🧗 On my rock climbing journey
 
 
 ## 🌐 Socials:
